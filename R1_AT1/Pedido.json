@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "produto": "Massageador",
+    "idade": 120,
+    "idCliente": "2"
+  },
+
+  {
+    "id": 2,
+    "produto": "Geladeira",
+    "idade": 1000,
+    "idCliente": "1"
+  },
+
+  {
+    "id": 3,
+    "produto": "Fogão",
+    "preço": 1200,
+    "idCliente": "3"
+  }
+]
