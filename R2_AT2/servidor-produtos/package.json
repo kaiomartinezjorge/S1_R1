@@ -1,0 +1,16 @@
+{
+"produtos": [
+  {
+    "id": 1,
+    "nome": "Smartphone",
+    "descricao": "Smartphone de última geração",
+    "usuarioId": 1
+  },
+  {
+    "id": 2,
+    "nome": "Notebook",
+    "descricao": "Notebook para trabalho e estudos",
+    "usuarioId": 2
+  }
+]
+}

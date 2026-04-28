@@ -1,0 +1,25 @@
+{
+  "pedidos": [
+      {
+        "id": 1,
+        "cliente": "João",
+        "produto": "Camiseta",
+        "quantidade": 2,
+        "preco": 50.00
+      },
+      {
+        "id": 2,
+        "cliente": "Maria",
+        "produto": "Calça Jeans",
+        "quantidade": 1,
+        "preco": 120.00
+      },
+      {
+        "id": 3,
+        "cliente": "Carlos",
+        "produto": "Tênis",
+        "quantidade": 1,
+        "preco": 200.00
+      }
+  ]
+}
